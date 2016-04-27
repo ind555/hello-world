@@ -1,2 +1,2 @@
 hello
-print read me
+life is great
